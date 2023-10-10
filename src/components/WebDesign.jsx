@@ -3,7 +3,7 @@ import React from 'react'
 const WebDesign = () => {
   return (
     <div>
-      WebDesign
+      
     </div>
   )
 }
